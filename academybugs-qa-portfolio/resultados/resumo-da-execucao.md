@@ -1,7 +1,5 @@
 # Resumo da Execução — AcademyBugs
 
-> Preencher somente depois de executar ou reexecutar os cenários. Não usar números estimados.
-
 ## 1. Informações da execução
 
 - **Data:** 01/10/2026
