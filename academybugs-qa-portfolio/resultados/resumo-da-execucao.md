@@ -4,11 +4,10 @@
 
 ## 1. Informações da execução
 
-- **Data:** [preencher]
-- **Executado por:** [preencher]
-- **Sistema operacional:** [preencher]
-- **Navegador e versão:** [preencher]
-- **Resolução / viewport:** [preencher]
+- **Data:** 01/10/2026
+- **Executado por:** Ewllyn melo
+- **Sistema operacional:** Windowns
+- **Navegador e versão:** Chrome
 - **URL:** https://academybugs.com/find-bugs/
 
 ## 2. Resumo quantitativo
@@ -16,12 +15,11 @@
 | Métrica | Resultado |
 |---|---:|
 | Cenários planejados | 25 |
-| Cenários executados | [preencher] |
-| Aprovados | [preencher] |
-| Reprovados | [preencher] |
-| Bloqueados | [preencher] |
-| Não executados | [preencher] |
-| Defeitos reproduzidos e confirmados | [preencher] |
+| Cenários executados |25 |
+| Aprovados | 0 |
+| Reprovados | 25 |
+| Bloqueados | 0 |
+| Não executados | 0 |
 
 ## 3. Critério de status
 
@@ -29,15 +27,3 @@
 - **Reprovado:** comportamento observado diverge do resultado esperado e há evidência suficiente.
 - **Bloqueado:** não foi possível concluir o teste por uma dependência ou impedimento.
 - **Não executado:** cenário ainda não foi testado nesta execução.
-
-## 4. Principais observações
-
-[Registrar somente fatos observados durante a execução. Relacionar CT-XXX e BUG-XXX quando aplicável.]
-
-## 5. Limitações
-
-[Descrever limitações reais: indisponibilidade do site, fluxo inacessível, dados de teste ou outras condições.]
-
-## 6. Conclusão
-
-[Preencher depois da execução, resumindo o que foi efetivamente testado, os defeitos confirmados e o que permaneceu pendente.]
