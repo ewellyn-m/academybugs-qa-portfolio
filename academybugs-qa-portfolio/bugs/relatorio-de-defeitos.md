@@ -1,13 +1,6 @@
 # Relatório de Defeitos — AcademyBugs
 
-**Status geral:** rascunhos baseados nas observações registradas; reproduzir e confirmar antes de publicar como defeitos validados.
-
-## Como usar este documento
-- Revise cada passo no site e ajuste-o ao fluxo real.
-- Acrescente data, navegador/versão e evidência quando reproduzir.
-- Não declare causa raiz sem evidência técnica.
-- Severidade e prioridade ficam como **A classificar** até avaliar impacto e frequência.
-- Não inclua dados pessoais em capturas de tela.
+**Status geral:**
 
 ---
 
@@ -38,8 +31,7 @@ Um card aparece menor que os demais.
 Os cards devem seguir um padrão de tamanho consistente com o layout da página.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-002 — Botão permanece como “Checkout now” após remover o produto
@@ -70,8 +62,7 @@ O botão continua como “Checkout now” e não permite adicionar novamente, co
 A interface deve refletir o estado atual do carrinho e permitir adicionar o produto após sua remoção.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-003 — Total não é atualizado ao adicionar mais de uma unidade
@@ -102,8 +93,7 @@ O valor total não muda após a ação repetida, conforme observado.
 O total deve corresponder à quantidade selecionada multiplicada pelo preço unitário, considerando as regras aplicáveis.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-004 — Total apresentado não corresponde ao preço e ao frete
@@ -134,8 +124,7 @@ O total exibido foi R$ 327,99 para produto de R$ 219,99 e frete de R$ 7,99.
 O total deve refletir a soma dos valores aplicáveis. Nesse exemplo, R$ 219,99 + R$ 7,99 = R$ 227,98.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-005 — Atualização do carrinho falha após alterar a quantidade
@@ -166,8 +155,7 @@ A atualização falha/recarrega e a quantidade fica em 2, segundo a observação
 A quantidade escolhida deve ser persistida e os valores do carrinho atualizados corretamente.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-006 — Seleção de moeda não altera os valores exibidos
@@ -198,8 +186,7 @@ A moeda/valores não mudam após a seleção, conforme observado.
 Os valores devem refletir a moeda selecionada, se essa opção estiver disponível para uso.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-007 — Campos obrigatórios de pagamento não são validados
@@ -230,8 +217,7 @@ A página permite prosseguir com valores vazios ou inválidos, conforme observad
 O sistema deve validar campos obrigatórios e impedir o avanço até que os dados necessários sejam informados corretamente.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-008 — Campo de telefone aceita letras
@@ -262,8 +248,7 @@ O campo aceita letras, conforme observado.
 O campo deve validar o formato de telefone esperado e orientar o usuário quando o valor for inválido.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-009 — Clique na imagem do produto no carrinho deixa a página carregando
@@ -294,8 +279,7 @@ A página fica carregando e nada acontece, conforme observado.
 A ação deve concluir o carregamento e apresentar um destino ou visualização válida do produto.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-010 — Controles de paginação não apresentam outra página
@@ -326,8 +310,7 @@ Não há alteração visível após o clique, conforme observado.
 Se houver outras páginas, elas devem ser acessíveis; caso contrário, a interface deve indicar corretamente que só existe uma página.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-011 — Espaçamento abaixo das imagens varia entre produtos
@@ -357,8 +340,7 @@ O espaço abaixo das imagens não é consistente, conforme observado.
 As imagens devem seguir um padrão de espaçamento consistente com o layout.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-012 — Texto do botão Send desalinhado nas páginas de login e logout
@@ -389,8 +371,7 @@ O texto aparece desalinhado nas páginas mencionadas, conforme observado.
 O texto do botão deve estar centralizado e visualmente consistente.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-013 — Botão Send fica mal posicionado no final do carrinho
@@ -420,8 +401,7 @@ O botão aparece mal posicionado, conforme observado.
 O botão deve ficar alinhado e posicionado de forma coerente com o formulário e o conteúdo.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-014 — Nomes de produtos ficam ilegíveis no resumo do carrinho
@@ -452,8 +432,7 @@ O texto fica ilegível no hover e aparecem caracteres indevidos, conforme observ
 Os nomes devem permanecer legíveis em todos os estados e não devem existir caracteres indevidos entre nome e preço.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-015 — Link de informações do fabricante direciona para erro 404
@@ -484,8 +463,7 @@ O destino retorna erro 404, conforme observado.
 O link deve direcionar para uma página válida ou apresentar uma alternativa apropriada.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-016 — Envio de comentário não apresenta resposta
@@ -516,8 +494,7 @@ Nada acontece após a tentativa de envio, conforme observado.
 O sistema deve processar o envio e apresentar confirmação, o comentário ou uma mensagem clara de erro/validação.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-017 — Descrição do produto aparece em idioma diferente do restante do site
@@ -547,8 +524,7 @@ A descrição aparece em outro idioma, conforme observado.
 O conteúdo deve manter consistência de idioma ou informar claramente a existência de conteúdo em outro idioma.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-018 — Link social do Twitter direciona para página inválida
@@ -579,8 +555,7 @@ O link direciona para uma página inválida, conforme observado.
 O link deve direcionar para um destino válido e correspondente à ação anunciada.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-019 — Seção Shipping address não carrega no cadastro de novo usuário
@@ -610,8 +585,7 @@ A seção não carrega as informações esperadas, conforme observado.
 A seção deve carregar os campos ou informações necessários para o endereço de entrega.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-020 — Produto sem estoque pode ser adicionado ao carrinho
@@ -641,8 +615,7 @@ O produto sem estoque é adicionado, conforme observado.
 O sistema deve respeitar a disponibilidade de estoque ou informar claramente a indisponibilidade.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-021 — Nomes de cores apresentam grafia incorreta
@@ -672,8 +645,7 @@ Foi observada a grafia “orang” e um problema semelhante no nome “yellow”
 Os nomes das cores devem estar escritos corretamente. Confirmar a grafia exata de cada opção durante a reprodução.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-022 — Uma das imagens do produto não está disponível
@@ -703,8 +675,7 @@ Uma imagem não está disponível, conforme observado.
 As imagens oferecidas pela página devem carregar corretamente ou apresentar um estado alternativo adequado.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-023 — Link New user aparece em outro idioma
@@ -734,8 +705,7 @@ O texto aparece em outro idioma, conforme observado.
 O texto deve seguir o idioma esperado para a interface.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-024 — Campo de senha tem formatação e posição diferentes do campo de e-mail
@@ -765,8 +735,7 @@ O campo/controle de senha apresenta formatação e posição diferentes, conform
 Os campos devem seguir o mesmo padrão visual e de alinhamento do formulário, respeitando diferenças funcionais necessárias.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
 ---
 
 ## 🐞 BUG-025 — Entrada manual permite quantidade acima do limite apresentado
@@ -797,5 +766,4 @@ A digitação manual permite informar valor acima do limite apresentado, conform
 O limite deve ser validado independentemente de o valor ser selecionado pelo controle ou digitado manualmente.
 
 ### Evidências
-- **Print/vídeo:** [adicionar caminho ou link após capturar evidência real]
-- **Observações da reprodução:** [preencher]
+
