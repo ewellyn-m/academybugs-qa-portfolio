@@ -1,6 +1,4 @@
 # Cenários BDD — AcademyBugs
-# Status inicial: NÃO EXECUTADO / A VALIDAR
-# Execute os cenários e registre resultados reais antes de publicar como finalizados.
 
 Feature: Explorar funcionalidades da loja AcademyBugs
 
