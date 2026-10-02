@@ -5,7 +5,7 @@
 - **Projeto:** AcademyBugs — Portfólio de QA
 - **Ambiente-alvo:** https://academybugs.com/find-bugs/
 - **Tipo de atividade:** estudo e exploração manual
-- **Status do documento:** planejamento inicial; revisar após a execução
+- **Status do documento:** planejamento inicial
 
 ## 2. Objetivo
 
@@ -63,18 +63,15 @@ Explorar os principais fluxos disponíveis no site e documentar comportamentos q
 
 ## 8. Ambiente de teste
 
-Preencher durante a validação:
 
-- **Data da execução:** [preencher]
-- **Sistema operacional:** [preencher]
-- **Navegador e versão:** [preencher]
-- **Resolução / viewport:** [preencher]
+- **Data da execução:** 01/10/2016
+- **Sistema operacional:** windons
+- **Navegador e versão:** chrome
 - **URL acessada:** https://academybugs.com/find-bugs/
-- **Observações de ambiente:** [preencher]
 
 ## 9. Rastreabilidade
 
-Os cenários CT-001 a CT-025 correspondem aos registros BUG-001 a BUG-025 conforme a associação documentada. Essa associação indica relação entre observação e cenário, não significa que todos os testes tenham sido reexecutados ou aprovados.
+Os cenários CT-001 a CT-025 correspondem aos registros BUG-001 a BUG-025 conforme a associação documentada.
 
 ## 10. Riscos e limitações
 
