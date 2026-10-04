@@ -17,7 +17,8 @@ listagem de produtos. 4. Observe o tamanho das imagens dos produtos
 exibidos.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="1468" height="718" alt="bug1" src="https://github.com/user-attachments/assets/10a6b4f1-7792-438c-b75b-b4c976aef3c8" />
+
 
 **Navegador:** Google Chrome
 
@@ -39,7 +40,8 @@ listagem de produtos. 4. Localize a paginação. 5. Clique em uma das
 opções de página.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="625" height="462" alt="bug2" src="https://github.com/user-attachments/assets/8ca112b3-5a46-4ab8-962c-85507ef221b9" />
+
 
 **Navegador:** Google Chrome
 
@@ -60,7 +62,8 @@ aumentar a quantidade desejada, a quantidade não é alterada.
 compra. 4. Localize o campo de quantidade. 5. Clique no botão **(+)**.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="961" height="644" alt="bug3" src="https://github.com/user-attachments/assets/03a1ba05-5772-46b1-b4d3-5276e559ca99" />
+
 
 **Navegador:** Google Chrome
 
@@ -84,7 +87,8 @@ compras. 6. Altere a quantidade para um valor superior a duas unidades,
 como cinco. 7. Clique em **Update** ou na opção de atualizar o carrinho.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="983" height="361" alt="bug4" src="https://github.com/user-attachments/assets/e9f0e7ba-d2df-41cd-a240-377f044de451" />
+
 
 **Navegador:** Google Chrome
 
@@ -106,7 +110,8 @@ disponível. 4. Adicione o produto ao carrinho. 5. Acesse o carrinho de
 compras. 6. Confira o preço, a quantidade e o valor final apresentado.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="962" height="659" alt="bug5" src="https://github.com/user-attachments/assets/e95c7573-4193-4a72-afed-535d2c226ff3" />
+
 
 **Navegador:** Google Chrome
 
@@ -128,7 +133,8 @@ carrinho. 4. Acesse o carrinho de compras. 5. Localize a opção de
 alteração de moeda. 6. Selecione outra moeda.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="1247" height="504" alt="bug6" src="https://github.com/user-attachments/assets/e6c71bfd-3d3b-4ddc-99a7-5d166d5eeb48" />
+
 
 **Navegador:** Google Chrome
 
@@ -149,7 +155,8 @@ um idioma diferente daquele utilizado no restante da interface.
 descrição. 5. Compare seu idioma com os demais textos da página.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="1384" height="614" alt="bug7" src="https://github.com/user-attachments/assets/a8177172-d4fd-451f-936a-a41acba63c45" />
+
 
 **Navegador:** Google Chrome
 
@@ -169,7 +176,8 @@ Ao clicar no nome do fabricante exibido na página do produto, o usuário
 nome do fabricante. 4. Clique no nome do fabricante.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="1913" height="454" alt="bug8" src="https://github.com/user-attachments/assets/ca41370b-bc54-46b9-941f-a92dccf8ac64" />
+
 
 **Navegador:** Google Chrome
 
@@ -192,7 +200,8 @@ seção de comentários. 5. Preencha os campos obrigatórios com informações
 válidas. 6. Envie o comentário.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="1018" height="710" alt="bug9" src="https://github.com/user-attachments/assets/5827d764-1313-4e69-8c12-221dc0b15632" />
+
 
 **Navegador:** Google Chrome
 
@@ -214,7 +223,7 @@ seção de links ou compartilhamento. 5. Clique no botão de
 compartilhamento do Twitter.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+
 
 **Navegador:** Google Chrome
 
@@ -235,7 +244,8 @@ direciona para uma página que não carrega corretamente.
 no produto ou em sua imagem. 4. Aguarde o carregamento da página.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="1740" height="783" alt="bug11" src="https://github.com/user-attachments/assets/06c54df1-220f-40fa-815b-39c4b1dd52a9" />
+
 
 **Navegador:** Google Chrome
 
@@ -257,7 +267,8 @@ Profissional**. 4. Acesse a galeria de imagens. 5. Localize a imagem
 correspondente à cor laranja.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="943" height="883" alt="bug12" src="https://github.com/user-attachments/assets/5f5f4c3b-bae1-48a8-9baa-4713f3ed31aa" />
+
 
 **Navegador:** Google Chrome
 
@@ -283,7 +294,8 @@ carregamento da página de login. 4. Observe o posicionamento do botão
 https://academybugs.com/account/?ec_page=login&account_error=login_failed
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="1215" height="553" alt="bug13" src="https://github.com/user-attachments/assets/3d462b0b-477e-4fb7-a9a6-35c6df869422" />
+
 
 **Navegador:** Google Chrome
 
@@ -305,7 +317,8 @@ https://academybugs.com/account/?ec_page=login&account_error=login_failed.
 registrado?**. 4. Compare o idioma do link com os demais textos.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="1241" height="645" alt="bug 14" src="https://github.com/user-attachments/assets/92e9d47c-372f-48d9-90e1-c25cc92b062c" />
+
 
 **Navegador:** Google Chrome
 
@@ -327,7 +340,8 @@ Adicione os produtos ao carrinho. 5. Acesse o carrinho. 6. Observe os
 nomes dos produtos listados.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="434" height="407" alt="bug15" src="https://github.com/user-attachments/assets/b47989b5-e348-4633-bba1-e9079de2f826" />
+
 
 **Navegador:** Google Chrome
 
@@ -353,7 +367,8 @@ válido. 8. Clique em **Recuperar senha**. 9. Observe o comportamento da
 página após o envio.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="738" height="378" alt="bug16" src="https://github.com/user-attachments/assets/5e4161f2-edb1-4a64-98ac-e766dae398cc" />
+
 
 **Navegador:** Google Chrome
 
@@ -377,7 +392,8 @@ menu lateral direito. 5. Selecione uma das faixas de preço disponíveis.
 6. Observe se a listagem é atualizada.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="1522" height="729" alt="bug17" src="https://github.com/user-attachments/assets/d7abddf1-9b48-44a7-b25e-b0843ad856db" />
+
 
 **Navegador:** Google Chrome
 
