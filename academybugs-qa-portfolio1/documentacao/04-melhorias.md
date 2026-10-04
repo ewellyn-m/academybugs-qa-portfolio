@@ -18,7 +18,8 @@ adicionar nenhum produto. 4. Observe se existe uma opção de acesso
 direto ao carrinho.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="1919" height="331" alt="melhoria 1" src="https://github.com/user-attachments/assets/bf72bf54-bc4f-4fa4-9215-b24cf375ad3c" />
+
 
 **Navegador:** Google Chrome
 
@@ -46,7 +47,8 @@ inadequados. 7. Observe o comportamento dos campos e a possibilidade de
 prosseguir com o pagamento.
 
 **Evidências:**\
-\[Inserir evidência aqui\]
+<img width="652" height="849" alt="melhoria 2" src="https://github.com/user-attachments/assets/cd14ff0e-0099-4e5d-b8a0-e5fbd3a0e6a2" />
+
 
 **Navegador:** Google Chrome
 
